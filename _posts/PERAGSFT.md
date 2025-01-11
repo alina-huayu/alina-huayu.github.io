@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提升LLM效果-Prompting/RAG/SFT分别适合什么情况下使用"
+title: "提升LLM效果-Prompt Engineering/RAG/SFT分别适合什么情况下使用"
 ---
 
 1. Prompting Engineering
